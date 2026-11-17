@@ -1,1 +1,1 @@
-# practica-github-equipo
+# Proyecto: Plataforma Unificada
